@@ -15,7 +15,7 @@ function App() {
   };
   const handleYesButtonClick = () => {
     console.log("CLICKED!");
-    setH1Text('I love you!❤️');
+    setH1Text('Yippie!! I love you so much!❤️');
     setShowConfetti(true);
   };
   const handleNoButtonClick = () => {
