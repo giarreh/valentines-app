@@ -43,7 +43,7 @@ function App() {
 
   return (
     <main>
-      <h1 className='title'>Hello Kinja!❤️</h1>
+      <h1 className='title'>Hello my dear!❤️</h1>
       <div className='content'>
       <h1>{h1Text}</h1>
         <div className='buttons'>
